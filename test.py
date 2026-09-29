@@ -1,6 +1,6 @@
 print("Este programa es un test")
 
-resultado = False
+resultado = True
 
 while resultado:
 
